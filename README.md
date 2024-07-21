@@ -29,10 +29,11 @@ Saya berkomitmen untuk terus belajar dan meningkatkan keterampilan saya dalam bi
 
 ## Sumber Daya
 - [Dokumentasi Kotlin](https://kotlinlang.org/docs/home.html)
-- [Artikel dan Tutorial S.O.L.I.D](https://medium.com/@kashif.muhammad/solid-principles-quick-reference-guide-are-you-doing-it-right-b7ff58bb9791)
+- [Sumber Belajar Prinsip SOLID(https://www.dicoding.com/academies/169-belajar-prinsip-pemrograman-solid)]
+- 
 
 ## Catatan Harian
-- **[Tanggal]**: [Catatan pembelajaran dan kemajuan]
+- **2023-07-21**: Mempelajari dasar-dasar S.O.L.I.D
 - **[Tanggal]**: [Catatan pembelajaran dan kemajuan]
 
 ## Refleksi Mingguan
