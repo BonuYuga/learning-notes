@@ -29,7 +29,7 @@ Saya berkomitmen untuk terus belajar dan meningkatkan keterampilan saya dalam bi
 
 ## Sumber Daya
 - [Dokumentasi Kotlin](https://kotlinlang.org/docs/home.html)
-- [Sumber Belajar Prinsip SOLID(https://www.dicoding.com/academies/169-belajar-prinsip-pemrograman-solid)]
+- [Sumber Belajar Prinsip SOLID di DICODING](https://www.dicoding.com/academies/169-belajar-prinsip-pemrograman-solid)
 - 
 
 ## Catatan Harian
